@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @csn1112
+- 👀 I’m interested in computer science & cyber security
+- 🌱 I’m currently learning python + c++
+- 📫 You can contact me through mail
+-  ✔ chhatrapalnegi2005@gmail.com
